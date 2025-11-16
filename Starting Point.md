@@ -6,7 +6,7 @@ There is also a `Start Here!` workspace that opens this note along with the grap
 
 ## What does this Repository contain?
 
-This repository contains a number of resources about cybersecurity. I plan to include a number of different categories of information, grouped into folders.
+This reposito contains a number of resources about cybersecurity. I plan to include a number of different categories of information, grouped into folders.
 
 - Cheat Sheets: condensed information, payloads and commands regarding specific topics. Good starting points are listed below:
 	- [[Fundamental Skills]]
