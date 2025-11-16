@@ -15,7 +15,7 @@ Most assessments involve the following things:
 - persistence (again)
 
 Enumeration is recursive. You may do initial enumeration, then re-enumerate what you've found, and this may happen several times before you do any exploitation.
-
+ds
 Once you gain a foothold on a target somehow (i.e. remote code execution or remote access) you will have to re-enumerate. You will want to enumerate other users on the target or network, any new services that are only available locally, and any security flaws on the target now you have access to the file system and system information.
 
 You may then wish to do any/all of the following:
