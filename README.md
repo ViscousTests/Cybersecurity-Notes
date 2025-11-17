@@ -11,7 +11,7 @@ Certain files contain examples of Windows shellcode (for example, the files in t
 
 ### On Windows
 
-Go to [the download page](https://obsidian.md/download)... and click Download
+Go to [the download sdfpage](https://obsidian.md/download)... and click Download
 
 ### On Kali
 
