@@ -13,7 +13,7 @@ Certain files contain examples of Windows shellcode (for example, the files in t
 
 Go to [the download sdfpage](https://obsidian.md/download)... and click Download
 
-### On Kali
+### On Ka
 
 Go to [the download page](https://obsidian.md/download), and download the AppImage. Put it in any directory you want (I went with `~/Applications`)
 
