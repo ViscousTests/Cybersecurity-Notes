@@ -1,7 +1,7 @@
 # Cybersecurity Notes
 My Markdown notes for all things cybersecurity. Best viewed in Obsidian.
 
-Read on to find out how to install this repository, and where to start finding the information you need.
+Read on to find out how to install this repository, and where to start finding the  you need.
 
 **DISCLAIMER:** These notes are for educational purposes only. Use them as a learning resource or a reference guide when performing tests with *explicit permission*. I'm sure you've seen similar disclaimers on Cybersecurity resources before, but always make sure you have permission to do what you're doing. I am not responsible or liable if you misuse this resource and get into trouble.
 
