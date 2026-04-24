@@ -8,6 +8,7 @@ Read on to find out how to install this repository, and where to start finding t
 Certain files contain examples of Windows shellcode (for example, the files in the writeup for the HacktheBox machine [Cereal](https://github.com/Twigonometry/Cybersecurity-Notes/tree/main/Writeups/Hack%20the%20Box/Boxes/Cereal). You may have to add a Windows Defender exclusion to prevent Windows from quarantining these files, or view the Obsidian vault in a Unix system instead.
 
 
+
 ## Installing Obsidian
 
 ### On Windows
