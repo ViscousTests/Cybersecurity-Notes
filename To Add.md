@@ -151,19 +151,6 @@ For each topic, include:
 	- [ ] zip2john
 	- [ ] keepass2john
 
-## XSS
-
-- [ ] XSS Payload Lists
-	- [ ] `XMLHttpRequest()`
-	- [ ] `fetch()`
-	- [ ] Cookie stealing
-	- [ ] Redirects
-- [ ] Obfuscation Examples
-- [ ] Interesting Delivery Methods
-	- [ ] Markdown
-- [ ] Troubleshooting
-	- [ ] `img` source callbacks
-
 ## Shells
 
 - [ ] Powershell Shells
