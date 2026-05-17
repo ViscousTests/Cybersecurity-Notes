@@ -44,22 +44,6 @@ sudo apt update
 sudo apt full-upgrade -y
 ```
 
-## Downloading the Vault
-
-You will need to [download git](https://git-scm.com/downloads). This is a quick and easy process.
-
-On Windows, open the Start Menu and search for 'Git Bash', then click it to open a bash terminal (or navigate to the folder you want to install the notes into, then right-click and press 'Git Bash Here'). On Unix, open a terminal of your choice.
-
-In this Git Bash/terminal, type the following:
-
-```bash
-git clone git@github.com:Twigonometry/Cybersecurity-Notes.git
-```
-
-If you are uncomfortable using the command line, you can install [GitHub Desktop](https://desktop.github.com/) instead.
-
-Once you have cloned the repsitory, open Obsidian and click `Open folder as vault`, then select the `Cybersecurity-Notes` folder that was just created by Git. You're ready to go!
-
 ## Where to Start?
 
 If you have no idea what you're looking for, go to the [[Starting Point]] page!
