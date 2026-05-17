@@ -14,7 +14,14 @@ Certain files contain examples of Windows shellcode (for example, the files in t
 
 Go to [the download sdfpage](https://obsidian.md/download)... and click Download
 
-### On Ka
+### On macOS
+
+1. Visit [Obsidian downloads](https://obsidian.md/download)
+2. Download the macOS version (Intel or Apple Silicon)
+3. Open the `.dmg` file and drag Obsidian to Applications
+4. Launch from your Applications folder
+
+### On Linux
 
 Go to [the download page](https://obsidian.md/download), and download the AppImage. Put it in any directory you want (I went with `~/Applications`)
 
@@ -37,12 +44,47 @@ I setup this alias in `~/.bashrc`:
 alias obsidian="~/Applications/Obsidian-0.11.9.AppImage --no-sandbox"
 ```
 
-Finally, if Obsidian stops responding on launch, update Kali:
+If Obsidian stops responding on launch, try these troubleshooting steps:
 
+1. **Update your system:**
 ```bash
 sudo apt update
 sudo apt full-upgrade -y
 ```
+
+2. **Check system logs:**
+```bash
+./Obsidian-0.11.9.AppImage --verbose 2>&1 | tee obsidian-debug.log
+```
+
+3. **Clear AppImage cache:**
+```bash
+rm -rf /tmp/.mount_*
+```
+
+4. **Verify AppImage permissions:**
+```bash
+chmod +x ~/Applications/Obsidian-0.11.9.AppImage
+```
+
+For further help, check the [Obsidian Community Discord](https://discord.gg/obsidianmd) or [GitHub issues](https://github.com/obsidianmd/obsidian-releases/issues).
+
+### Cloning the Repository
+
+You will need to have [git installed](https://git-scm.com/downloads). 
+
+**On Windows:** Open Git Bash (search in Start Menu), or right-click in a folder and select "Git Bash Here".
+
+**On macOS/Linux:** Open your terminal.
+
+Then run:
+```bash
+git clone git@github.com:Twigonometry/Cybersecurity-Notes.git
+```
+
+If you prefer a GUI, install [GitHub Desktop](https://desktop.github.com/).
+
+Once cloned, open Obsidian, click "Open folder as vault", and select the `Cybersecurity-Notes` folder. That's it!
 
 ## Where to Start?
 
