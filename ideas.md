@@ -1,7 +1,5 @@
 # Ideas & TODOs
 
-Test
-
 ## Feature Ideas
 - Implement dark mode toggle (requested by 3 users)
 - Add export-to-PDF functionality
