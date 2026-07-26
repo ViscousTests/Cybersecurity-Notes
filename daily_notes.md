@@ -20,3 +20,4 @@ Found the bug! Cache wasn't being invalidated on user preference changes.
 - Root cause: missing event listener in UserPreferences component
 - Fix is ready, testing now
 - Should be deployed by 11:30am
+
