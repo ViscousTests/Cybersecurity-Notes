@@ -5,6 +5,9 @@
 
 
 
+
+
+
 # Daily Notes - January 15
 
 ## 9:00 AM - First Coffee
